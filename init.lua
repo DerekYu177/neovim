@@ -1,2 +1,1 @@
 require("busky")
-print("hello")

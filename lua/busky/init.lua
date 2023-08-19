@@ -1,2 +1,2 @@
 require("busky.remap")
-print("hello from busky")
+require("busky.set")
