@@ -1,0 +1,2 @@
+require("busky")
+print("hello")
